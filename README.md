@@ -1,9 +1,11 @@
-char-rnn-tensorflow
+techworkshop17-ml
 ===
 
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
 
 Based on this [tensorflow implementation](https://github.com/sherjilozair/char-rnn-tensorflow) of Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
+
+Created at Puzzle TechWorkshop 2017.
 
 ## Basic Usage
 You can use Docker to run the code without having to install anything else first:
