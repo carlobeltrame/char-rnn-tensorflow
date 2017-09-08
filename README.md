@@ -32,7 +32,7 @@ A quick tip to concatenate many small disparate `.txt` files into one large trai
 ## Tensorboard
 To visualize training progress, model graphs, and internal state histograms, execute the following command from a different terminal:
 ```bash
-$ tensorboard --logdir=./logs/
+$ docker exec tensorboard --logdir=./logs/
 ```
 
 Then open a browser to [http://localhost:6006](http://localhost:6006).
